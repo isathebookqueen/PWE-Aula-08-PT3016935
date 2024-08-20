@@ -12,3 +12,17 @@ img.imagem {
   border-style: solid;
   border-color:  black;
 }
+.main-form {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+  display: block;
+  height: 100vh; /* Full viewport height */
+  padding: 20px; /* Add padding for spacing */
+}
+fieldset {
+  padding: 20px;
+}
+label {
+  font-size: 1.2em; /* Increase font size */
+}
